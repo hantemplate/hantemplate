@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hantemplate.
-- 👀 I’m interested in Google Sheet and Google App Script. Also, I love to make a template in Google Sheet which connects to App Script.
-- 🌱 I’m currently learning on Google App Script.
+- 👋 Hi, I’m Venthy Hanna.
+- 👀 I’m interested in Data Analyst.
+- 🌱 I’m currently learning on Google App Script, Python and SQL.
 - 📫 You can reach me through email han.template@gmail.com.
 
 <!---
